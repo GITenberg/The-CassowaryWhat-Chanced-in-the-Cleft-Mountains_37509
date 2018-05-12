@@ -1,0 +1,29 @@
+_repo: The-CassowaryWhat-Chanced-in-the-Cleft-Mountains_37509
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37509-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waterloo, Stanley
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '2830'
+    url: http://www.gutenberg.org/2009/agents/2830
+description: ''
+gutenberg_issued: '2011-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37509'
+  lccn: '07020621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storytelling -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Railroad travel -- Fiction'
+title: The Cassowary; What Chanced in the Cleft Mountains
+url: http://www.gutenberg.org/ebooks/37509
